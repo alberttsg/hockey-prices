@@ -1,0 +1,8 @@
+# Despliegue del Worker de eBay (el mismo para baseball y hockey): npx wrangler deploy --config ebay-worker/wrangler.toml
+name = "baseball-ebay"
+main = "worker.js"
+compatibility_date = "2026-11-10"
+workers_dev = true
+preview_urls = false
+# APP_KEY, EBAY_CLIENT_ID y EBAY_CLIENT_SECRET están puestas en el panel de Cloudflare: sin esto, deploy las borraría
+keep_vars = true

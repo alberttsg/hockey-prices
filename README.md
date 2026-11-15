@@ -32,12 +32,19 @@ sueltas.
 
 ## Worker de Cloudflare
 
-El Worker es el mismo para baseball y hockey. Para actualizarlo:
+El Worker es el mismo para baseball y hockey: `baseball-ebay` (`https://baseball-ebay.albertsg-86.workers.dev`).
+Para actualizarlo (hace falta `npx wrangler login` una vez):
 
-1. Cloudflare > Workers > el Worker de eBay > Edit code: pegar `ebay-worker/worker.js` y desplegar.
-2. Settings > Variables and Secrets: añadir el secreto `APP_KEY_HOCKEY` con el mismo valor que `WORKER_APP_KEY`
-   en `hockey/Components/Prices/config.js`.
-3. Copiar también `ebay-worker/worker.js` a `baseball-prices` para que los dos repos tengan la misma versión.
+```
+npm install
+npx wrangler deploy --config ebay-worker/wrangler.toml
+```
+
+`ebay-worker/wrangler.toml` lleva `keep_vars = true`: `APP_KEY`, `EBAY_CLIENT_ID` y `EBAY_CLIENT_SECRET` están puestas
+en el panel de Cloudflare como variables y, sin eso, el despliegue las borraría. `APP_KEY_HOCKEY` es un secreto con el
+mismo valor que `WORKER_APP_KEY` en `hockey/Components/Prices/ebayWorker.js`.
+
+Copiar también `ebay-worker/worker.js` a `baseball-prices` para que los dos repos tengan la misma versión.
 
 ## Probar en local
 
