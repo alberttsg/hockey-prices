@@ -1,0 +1,683 @@
+{
+ "sets": [
+  {
+   "name": "Upper Deck",
+   "aliases": [
+    "upper deck series 1",
+    "upper deck series one",
+    "upper deck series 2",
+    "upper deck series two",
+    "upper deck extended series",
+    "upper deck extended",
+    "ud series 1",
+    "ud series 2",
+    "ud extended"
+   ],
+   "priority": 1
+  },
+  {
+   "name": "O-Pee-Chee",
+   "aliases": [
+    "opc",
+    "o pee chee",
+    "opeechee"
+   ],
+   "priority": 1
+  },
+  {
+   "name": "Topps",
+   "priority": 1
+  },
+  {
+   "name": "Parkhurst",
+   "priority": 1
+  },
+  {
+   "name": "Fleer",
+   "priority": 1
+  },
+  {
+   "name": "Score",
+   "priority": 1
+  },
+  {
+   "name": "Pinnacle",
+   "priority": 1
+  },
+  {
+   "name": "Pacific",
+   "priority": 1
+  },
+  {
+   "name": "Donruss",
+   "priority": 1
+  },
+  {
+   "name": "Leaf",
+   "priority": 1
+  },
+  {
+   "name": "Bowman",
+   "priority": 1
+  },
+  {
+   "name": "Panini",
+   "priority": 1
+  },
+  {
+   "name": "Pro Set",
+   "priority": 1
+  },
+  {
+   "name": "Skybox",
+   "aliases": [
+    "sky box"
+   ],
+   "priority": 1
+  },
+  {
+   "name": "In The Game",
+   "aliases": [
+    "itg"
+   ],
+   "priority": 1
+  },
+  {
+   "name": "Upper Deck Young Guns",
+   "aliases": [
+    "young guns",
+    "ud young guns"
+   ],
+   "priority": 2.5
+  },
+  {
+   "name": "UD Canvas",
+   "aliases": [
+    "canvas",
+    "upper deck canvas",
+    "ud canvas"
+   ],
+   "priority": 2.6
+  },
+  {
+   "name": "Upper Deck MVP",
+   "aliases": [
+    "ud mvp"
+   ]
+  },
+  {
+   "name": "SP Authentic",
+   "aliases": [
+    "upper deck sp authentic"
+   ]
+  },
+  {
+   "name": "SP Authentic Future Watch",
+   "aliases": [
+    "future watch"
+   ],
+   "priority": 2.5
+  },
+  {
+   "name": "SP Game Used",
+   "aliases": [
+    "spgu"
+   ]
+  },
+  {
+   "name": "SPx"
+  },
+  {
+   "name": "The Cup",
+   "aliases": [
+    "upper deck the cup",
+    "ud the cup"
+   ]
+  },
+  {
+   "name": "Ultimate Collection",
+   "aliases": [
+    "upper deck ultimate collection",
+    "ud ultimate"
+   ]
+  },
+  {
+   "name": "Black Diamond",
+   "aliases": [
+    "upper deck black diamond"
+   ]
+  },
+  {
+   "name": "Artifacts",
+   "aliases": [
+    "upper deck artifacts",
+    "ud artifacts"
+   ]
+  },
+  {
+   "name": "Upper Deck Ice",
+   "aliases": [
+    "ud ice"
+   ]
+  },
+  {
+   "name": "Trilogy",
+   "aliases": [
+    "upper deck trilogy"
+   ]
+  },
+  {
+   "name": "Synergy",
+   "aliases": [
+    "upper deck synergy"
+   ]
+  },
+  {
+   "name": "Allure",
+   "aliases": [
+    "upper deck allure"
+   ]
+  },
+  {
+   "name": "Credentials",
+   "aliases": [
+    "upper deck credentials"
+   ]
+  },
+  {
+   "name": "Upper Deck Premier",
+   "aliases": [
+    "ud premier"
+   ]
+  },
+  {
+   "name": "Clear Cut",
+   "aliases": [
+    "upper deck clear cut"
+   ]
+  },
+  {
+   "name": "Engrained",
+   "aliases": [
+    "upper deck engrained"
+   ]
+  },
+  {
+   "name": "Stature",
+   "aliases": [
+    "upper deck stature"
+   ]
+  },
+  {
+   "name": "Upper Deck Tim Hortons",
+   "aliases": [
+    "tim hortons"
+   ]
+  },
+  {
+   "name": "National Hockey Card Day",
+   "aliases": [
+    "upper deck national hockey card day",
+    "nhcd"
+   ]
+  },
+  {
+   "name": "Team Canada Juniors",
+   "aliases": [
+    "upper deck team canada juniors",
+    "team canada juniors"
+   ]
+  },
+  {
+   "name": "Upper Deck CHL",
+   "aliases": [
+    "ud chl"
+   ]
+  },
+  {
+   "name": "Be A Player",
+   "aliases": [
+    "upper deck be a player",
+    "itg be a player",
+    "bap"
+   ]
+  },
+  {
+   "name": "Fleer Ultra",
+   "aliases": [
+    "upper deck ultra"
+   ]
+  },
+  {
+   "name": "Fleer Showcase",
+   "aliases": [
+    "showcase"
+   ]
+  },
+  {
+   "name": "Fleer Legacy"
+  },
+  {
+   "name": "Metal Universe",
+   "aliases": [
+    "skybox metal universe",
+    "metal"
+   ]
+  },
+  {
+   "name": "Upper Deck Overtime",
+   "aliases": [
+    "ud overtime"
+   ]
+  },
+  {
+   "name": "Upper Deck Series 1 Exclusives"
+  },
+  {
+   "name": "O-Pee-Chee Platinum",
+   "aliases": [
+    "opc platinum",
+    "o pee chee platinum"
+   ]
+  },
+  {
+   "name": "O-Pee-Chee Premier",
+   "aliases": [
+    "opc premier",
+    "o pee chee premier"
+   ]
+  },
+  {
+   "name": "O-Pee-Chee Update",
+   "aliases": [
+    "opc update",
+    "o pee chee update"
+   ]
+  },
+  {
+   "name": "Parkhurst Champions",
+   "aliases": [
+    "parkhurst champs"
+   ]
+  },
+  {
+   "name": "Parkhurst Rookies"
+  },
+  {
+   "name": "Topps Chrome"
+  },
+  {
+   "name": "Topps Now"
+  },
+  {
+   "name": "Topps Stadium Club",
+   "aliases": [
+    "stadium club"
+   ]
+  },
+  {
+   "name": "Panini Contenders",
+   "aliases": [
+    "contenders"
+   ]
+  },
+  {
+   "name": "Panini Prime"
+  },
+  {
+   "name": "Panini Dominion",
+   "aliases": [
+    "dominion"
+   ]
+  },
+  {
+   "name": "Score Rookies"
+  },
+  {
+   "name": "Pinnacle Inside"
+  },
+  {
+   "name": "Pacific Crown Royale",
+   "aliases": [
+    "crown royale"
+   ]
+  },
+  {
+   "name": "Pacific Paramount",
+   "aliases": [
+    "paramount"
+   ]
+  },
+  {
+   "name": "Pacific Invincible",
+   "aliases": [
+    "invincible"
+   ]
+  },
+  {
+   "name": "Bowman Chrome"
+  },
+  {
+   "name": "ITG Heroes and Prospects",
+   "aliases": [
+    "heroes and prospects",
+    "heroes prospects"
+   ]
+  },
+  {
+   "name": "Leaf Ultimate"
+  },
+  {
+   "name": "Leaf Metal Draft",
+   "aliases": [
+    "leaf metal"
+   ]
+  },
+  {
+   "name": "Tableau",
+   "aliases": [
+    "upper deck tableau"
+   ]
+  },
+  {
+   "name": "Credentials Ticket Access",
+   "aliases": [
+    "ticket access",
+    "debut ticket access"
+   ],
+   "priority": 2.5
+  },
+  {
+   "name": "Splendor",
+   "aliases": [
+    "upper deck splendor"
+   ]
+  }
+ ],
+ "parallels": [
+  "silver",
+  "gold",
+  "red",
+  "blue",
+  "green",
+  "purple",
+  "orange",
+  "black",
+  "pink",
+  "white",
+  "yellow",
+  "teal",
+  "bronze",
+  "neon",
+  "ruby",
+  "emerald",
+  "sapphire",
+  "platinum",
+  "copper",
+  "aqua",
+  "lime",
+  "magenta",
+  "cyan",
+  "fuchsia",
+  "rose gold",
+  "royal blue",
+  "sky blue",
+  "navy",
+  "sepia",
+  "negative",
+  "refractor",
+  "xfractor",
+  "x fractor",
+  "superfractor",
+  "atomic",
+  "mojo",
+  "speckle",
+  "shimmer",
+  "wave",
+  "lava",
+  "geometric",
+  "prism",
+  "prizm",
+  "mosaic",
+  "holo",
+  "foil",
+  "silver foil",
+  "rainbow",
+  "rainbow foil",
+  "red rainbow",
+  "blue rainbow",
+  "black rainbow",
+  "gold foil",
+  "printing plate",
+  "clear",
+  "black and white",
+  "sparkle",
+  "sparkles",
+  "glitter",
+  "hyper",
+  "camo",
+  "ice",
+  "cracked ice",
+  "black ice",
+  "exclusives",
+  "exclusive",
+  "high gloss",
+  "outburst",
+  "beige",
+  "deluxe",
+  "retro",
+  "blank back",
+  "marquee",
+  "glossy",
+  "acetate",
+  "spectrum",
+  "violet",
+  "violet pixels",
+  "seismic",
+  "matte",
+  "checkers",
+  "arctic freeze",
+  "color wheel",
+  "pixels",
+  "border",
+  "black border",
+  "red border",
+  "blue border",
+  "photo variation",
+  "image variation",
+  "variation",
+  "short print",
+  "ssp",
+  "sp",
+  "one of one"
+ ],
+ "teams": {
+  "maple leafs": "Toronto Maple Leafs",
+  "leafs": "Toronto Maple Leafs",
+  "canadiens": "Montreal Canadiens",
+  "habs": "Montreal Canadiens",
+  "bruins": "Boston Bruins",
+  "sabres": "Buffalo Sabres",
+  "red wings": "Detroit Red Wings",
+  "panthers": "Florida Panthers",
+  "lightning": "Tampa Bay Lightning",
+  "senators": "Ottawa Senators",
+  "hurricanes": "Carolina Hurricanes",
+  "blue jackets": "Columbus Blue Jackets",
+  "devils": "New Jersey Devils",
+  "islanders": "New York Islanders",
+  "rangers": "New York Rangers",
+  "flyers": "Philadelphia Flyers",
+  "penguins": "Pittsburgh Penguins",
+  "capitals": "Washington Capitals",
+  "blackhawks": "Chicago Blackhawks",
+  "avalanche": "Colorado Avalanche",
+  "stars": "Dallas Stars",
+  "wild": "Minnesota Wild",
+  "predators": "Nashville Predators",
+  "blues": "St. Louis Blues",
+  "jets": "Winnipeg Jets",
+  "utah hockey club": "Utah Mammoth",
+  "mammoth": "Utah Mammoth",
+  "ducks": "Anaheim Ducks",
+  "mighty ducks": "Anaheim Ducks",
+  "flames": "Calgary Flames",
+  "oilers": "Edmonton Oilers",
+  "kings": "Los Angeles Kings",
+  "sharks": "San Jose Sharks",
+  "kraken": "Seattle Kraken",
+  "canucks": "Vancouver Canucks",
+  "golden knights": "Vegas Golden Knights",
+  "coyotes": "Arizona Coyotes",
+  "thrashers": "Atlanta Thrashers",
+  "whalers": "Hartford Whalers",
+  "nordiques": "Quebec Nordiques",
+  "north stars": "Minnesota North Stars"
+ },
+ "aliases": {
+  "the great one": "wayne-gretzky",
+  "gretzky": "wayne-gretzky",
+  "mcdavid": "connor-mcdavid",
+  "crosby": "sidney-crosby",
+  "ovechkin": "alex-ovechkin",
+  "alexander ovechkin": "alex-ovechkin",
+  "ovi": "alex-ovechkin",
+  "lemieux": "mario-lemieux",
+  "bedard": "connor-bedard",
+  "celebrini": "macklin-celebrini",
+  "mr hockey": "gordie-howe",
+  "alexis lafreniere": "alexis-lafreniere"
+ },
+ "excluded": [
+  "nfl",
+  "nba",
+  "wnba",
+  "mlb",
+  "football",
+  "basketball",
+  "baseball",
+  "soccer",
+  "ufc",
+  "wwe",
+  "pokemon",
+  "yugioh",
+  "yu gi oh",
+  "mtg",
+  "magic the gathering",
+  "one piece",
+  "lorcana",
+  "formula 1",
+  "golf",
+  "tennis",
+  "nascar",
+  "lot",
+  "lots",
+  "you pick",
+  "pick your",
+  "choose",
+  "complete set",
+  "team set",
+  "hobby box",
+  "blaster",
+  "packs",
+  "wax pack",
+  "sealed pack",
+  "box break",
+  "case break",
+  "random",
+  "digital",
+  "reprint",
+  "custom",
+  "proxy",
+  "photograph",
+  "signed photo",
+  "8x10",
+  "11x14",
+  "16x20",
+  "poster",
+  "bobblehead",
+  "funko",
+  "signed puck",
+  "autographed puck",
+  "game used puck",
+  "signed stick",
+  "mini helmet",
+  "jersey only",
+  "qb",
+  "quarterback",
+  "touchdown",
+  "bills",
+  "chiefs",
+  "cowboys",
+  "eagles",
+  "packers",
+  "steelers",
+  "ravens",
+  "bengals",
+  "texans",
+  "colts",
+  "titans",
+  "jaguars",
+  "broncos",
+  "raiders",
+  "chargers",
+  "dolphins",
+  "patriots",
+  "lions",
+  "bears",
+  "vikings",
+  "saints",
+  "falcons",
+  "buccaneers",
+  "seahawks",
+  "49ers",
+  "commanders",
+  "redskins",
+  "lakers",
+  "celtics",
+  "warriors",
+  "knicks",
+  "bulls",
+  "bucks",
+  "spurs",
+  "clippers",
+  "mavericks",
+  "nuggets",
+  "timberwolves",
+  "pelicans",
+  "grizzlies",
+  "trail blazers",
+  "76ers",
+  "sixers",
+  "raptors",
+  "cavaliers",
+  "pistons",
+  "pacers",
+  "hornets",
+  "wizards",
+  "yankees",
+  "red sox",
+  "dodgers",
+  "mets",
+  "cubs",
+  "white sox",
+  "braves",
+  "astros",
+  "phillies",
+  "padres",
+  "mariners",
+  "orioles",
+  "guardians",
+  "twins",
+  "brewers",
+  "royals",
+  "athletics",
+  "marlins",
+  "nationals",
+  "diamondbacks",
+  "home run",
+  "ticket stub",
+  "game ticket",
+  "ticket only"
+ ]
+}
